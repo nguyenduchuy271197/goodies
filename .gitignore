@@ -1,2 +1,8 @@
 .vscode/settings.json
 .obsidian/*
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
